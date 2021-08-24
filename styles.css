@@ -1,4 +1,7 @@
 .shadow-item {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
     height: 150px;
     width: 350px;
     background: rgb(1, 10, 51);
