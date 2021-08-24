@@ -1,4 +1,6 @@
 .shadow-item {
+    height: 150px;
+    width: 200px;
     background: rgb(1, 10, 51);
     color: rgb(224, 225, 229);
     font-family: 'Epilogue', sans-serif;
